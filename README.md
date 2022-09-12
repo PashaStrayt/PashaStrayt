@@ -1,4 +1,8 @@
-### Hi there 👋
+<img width='100%' src='./preview.svg' />
+
+# Hello there! 👀
+
+
 
 <!--
 **PashaStrayt/PashaStrayt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
