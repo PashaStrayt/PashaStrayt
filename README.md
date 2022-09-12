@@ -1,4 +1,4 @@
-
+<img width='100%' src='./preview.svg' />
 
 # Hello there! 👀
 
