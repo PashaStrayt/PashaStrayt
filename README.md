@@ -5,8 +5,8 @@
 
 ## About me // Обо мне
 <p>
-  I am student and beginning developer, but I try my best and learn to really become a professional in my business. <br>
-  // Я студент и на данный момент живу и учусь в Москве. Я начинающий разработчик, но учусь и делаю все, чтобы действительно стать профессионалом своего дела.
+  I'm student and beginning developer, but I try my best and learn to really become a professional in my business. <br>
+  // Я и начинающий разработчик, но учусь и делаю все, чтобы действительно стать профессионалом своего дела.
 </p>
 
 <h1></h1>
