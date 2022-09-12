@@ -21,5 +21,5 @@
 ## Links // Ссылки
 I'm always glad to work / cooperate with you :D <br>
 
-<a href='https://vk.com/pashastrayt' target='_blank'><img height='30px' src='./vk.svg' /></a>
-<a href='https://t.me/pashastrayt' target='_blank'><img width='30px' src='./telegram.svg' /></a>
+<a target='_blank' href='https://vk.com/pashastrayt'><img height='30px' src='./vk.svg' /></a>
+<a target='_blank' href='https://t.me/pashastrayt'><img width='30px' src='./telegram.svg' /></a>
