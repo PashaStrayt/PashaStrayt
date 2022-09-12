@@ -5,7 +5,7 @@
 
 ## About me // Обо мне
 <p>
-  I am student, currently living and studying in Moscow. I'm beginning developer, but I try my best and learn to really become a professional in my business. <br>
+  I am student and beginning developer, but I try my best and learn to really become a professional in my business. <br>
   // Я студент и на данный момент живу и учусь в Москве. Я начинающий разработчик, но учусь и делаю все, чтобы действительно стать профессионалом своего дела.
 </p>
 
@@ -20,6 +20,7 @@
 
 ## Links // Ссылки
 I'm always glad to work / cooperate with you :D <br>
+// Я всегда рад поработать / посотрудничать с вами :D
 
 <a target='_blank' href='https://vk.com/pashastrayt'><img height='30px' src='./vk.svg' /></a>
 <a target='_blank' href='https://t.me/pashastrayt'><img width='30px' src='./telegram.svg' /></a>
