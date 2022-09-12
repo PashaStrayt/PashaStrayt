@@ -1,20 +1,24 @@
+### Hello there) 👀 // Ну, привет)
+
 <img width='100%' src='./preview.svg' />
 
-# Hello there! 👀
 
+## About me // Обо мне
+<p>
+  I am student, currently living and studying in Moscow. I'm beginning developer, but I try my best and learn to really become a professional in my business. <br>
+  // Я студент и на данный момент живу и учусь в Москве. Я начинающий разработчик, но учусь и делаю все, чтобы действительно стать профессионалом своего дела.
+</p>
 
+<h1></h1>
 
-<!--
-**PashaStrayt/PashaStrayt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My using technologies // Я работаю с
+<ol>
+  <li>TypeScript, React, Redux / MobX</li>
+  <li>Node, Express</li>
+  <li>Have working experience with various databases // Иммею опыт работы с различными базами данных</li>
+</ol>
 
-Here are some ideas to get you started:
+## Links // Ссылки
+I'm always glad to work / cooperate with you :D <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a><img width='30px' src='./vk.svg' /></a>
