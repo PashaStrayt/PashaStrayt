@@ -21,4 +21,4 @@
 ## Links // Ссылки
 I'm always glad to work / cooperate with you :D <br>
 
-<a><img width='30px' src='./vk.svg' /></a> <span> </span> <a><img width='30px' src='./telegram.svg' /></a>
+<a><img height='30px' src='./vk.svg' /></a> <span> </span> <a><img width='30px' src='./telegram.svg' /></a>
