@@ -6,7 +6,7 @@
 ## About me // Обо мне
 <p>
   I'm student and beginning developer, but I try my best and learn to really become a professional in my business. <br>
-  // Я и начинающий разработчик, но учусь и делаю все, чтобы действительно стать профессионалом своего дела.
+  // Я студент и начинающий разработчик, но учусь и делаю все, чтобы действительно стать профессионалом своего дела.
 </p>
 
 ## My using technologies // Я работаю с
