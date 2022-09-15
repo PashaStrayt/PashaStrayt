@@ -13,7 +13,6 @@
 <ol>
   <li>TypeScript, React, Redux / MobX</li>
   <li>Node, Express</li>
-  <li>Have working experience with various databases // Имею опыт работы с различными базами данных</li>
 </ol>
 
 ## Links // Ссылки
