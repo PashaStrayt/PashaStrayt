@@ -11,8 +11,8 @@
 
 ## My using technologies // Я работаю с
 <ol>
-  <li>TypeScript, React, Redux / MobX</li>
-  <li>Node, Express</li>
+  <li>TypeScript, React, Redux / MobX / Recoil</li>
+  <li>Node, Express, Nest</li>
 </ol>
 
 ## Links // Ссылки
