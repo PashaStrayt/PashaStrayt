@@ -1,23 +1,33 @@
-### Hello there) 👀 // Ну, привет)
+<h3 align='center'>Hello there. General Kenobi...</h3>
 
-<img width='100%' src='./preview.svg' />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+  <img width='100%' src="./light.svg">
+</picture>
+<br />
 
-
-## About me // Обо мне
-<p>
-  I'm student and beginning developer, but I try my best and learn to really become a professional in my business. <br>
-  // Я студент и начинающий разработчик, но учусь и делаю все, чтобы действительно стать профессионалом своего дела.
+<h2 align='center'>About me</h2>
+<p align='center'>
+  I'm student and front-end developer.
 </p>
+<br />
 
-## My using technologies // Я работаю с
-<ol>
-  <li>TypeScript, React, Redux / MobX / Recoil</li>
-  <li>Node, Express, Nest</li>
-</ol>
+<h2 align='center'>My stack</h2>
+<p align='center'>
+  <code>* TypeScript &#8291;</code> &#8291; &#8291;
+  <code>* React &#8291;</code>⁣ &#8291; &#8291;
+  <code>* SWR &#8291;</code> &#8291; &#8291;
+  <code>* Recoil &#8291;</code> &#8291; &#8291;
+  <code>* Phaser &#8291;</code> &#8291; &#8291;
+</p>
+<br />
 
-## Links // Ссылки
-I'm always glad to work / cooperate with you :D <br>
-// Я всегда рад поработать / посотрудничать с вами :D
-
-<a target='_blank' href='https://vk.com/pashastrayt'><img height='30px' src='./vk.svg' /></a>
-<a target='_blank' href='https://t.me/pashastrayt'><img width='30px' src='./telegram.svg' /></a>
+<h2 align='center'>Contacts</h2>
+<p align='center'>
+  <a target='_blank' href='https://t.me/pashastrayt'>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./telegram-dark.svg">
+      <img width='50px' src="./telegram-light.svg">
+    </picture>
+  </a>
+</p>
